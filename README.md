@@ -9,4 +9,4 @@ A Python-based web scraper that extracts e-commerce laptop listings, cleans unst
 
 ## Scraped Data Preview
 
-![E-Commerce Data Preview](ecommerce_preview.png)
+![E-Commerce Data Preview](laptop_Data2.png)
